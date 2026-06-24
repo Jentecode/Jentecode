@@ -9,9 +9,10 @@ Currently learning Python, FastAPI, Docker, and everything in between.
 
 
 ## What I'm working on
-- Screenshot API — microservice built with FastAPI, Redis and Playwright
-- SQL and data analysis
 
+
+## What I'm working on
+- Screenshot API — microservice built with FastAPI, Redis and Playwright
 
 
 ## Stack
