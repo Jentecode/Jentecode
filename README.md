@@ -9,7 +9,7 @@ Currently learning Python, FastAPI, Docker, and everything in between.
 
 
 ## What I'm working on
-
+- kickdata - Makes predictions of which football team can win the match based on time, current score.
 
 ## What I've built
 - Screenshot API — microservice built with FastAPI, Redis and Playwright
