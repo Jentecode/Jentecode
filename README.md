@@ -4,7 +4,7 @@ Student Applied Data Intelligence @ Thomas More Mechelen.
 
 
 
-Currently learning Python, FastAPI, Docker, and everything in between.
+Currently learning FastAPI, Docker, Redis, Playwright.
 
 
 
